@@ -1,0 +1,29 @@
+---
+title: "Amirah Casey"
+image: "AmirahCasey.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/amirah-casey-b77404a3"
+  - label: GitHub
+    url: "https://github.com/AmirahCasey"
+  - label: Email
+    url: "mailto:acasey2@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Amirah recently graduated from Western Washington University with a BS in Marine and Coastal Science with a minor in Spanish. While at WWU, she took part in research on the effects of PCBs and PBDEs on zebrafish and surf smelt. During her four years as an undergraduate, she was a marine science education intern at foundry10, the first undergraduate to teach a lab section of organismal biology, a peer mentor for the Marine and Coastal Science. As of 2023, Amirah began attending the University of Washington School of Aquatic and Fishery Science. She is a member of the Applied Ecology Lab and is advised by Dr. Mark Scheuerell. In addition to her studies in SAFS, Amirah is a member of the Future Rivers program and is on the board of Students Explore Aquatic Science (SEAS). Pertaining to graduate studies, she is interested in mitigating the effects of contaminant and thermal stress on salmon in the Pacific Northwest. 
+
+## Education
+
+**Western Washington University** | Bellingham, WA
+
+B.S. in Marine and Coastal Science, Spanish minor | September 2019 - June 2023
+
+**University of Washington** | Seattle, WA
+
+School of Aquatic and Fishery Science| September 2023 - Future date
+
+
