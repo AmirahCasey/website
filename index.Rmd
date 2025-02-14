@@ -30,7 +30,4 @@ School of Aquatic and Fishery Science| September 2023 - Future date
 
 I am broadly interested in Urban Ecology and Climate Resilience, and through graduate school I hope to gain experience doing research at the intersection of science and policy while improving my quantitative and computational skills. As such, my project focuses on how urbanization and climate change are impacting Puget Sound. Specifically, I hope to understand how higher stream temperatures interact with contaminant 6PPD-quinone to impact Coho salmon physiology. I will do this through empirical studies in the lab, as well as updating a pre-existing model that will account for thermal stress when calculating predicted Coho mortality across Puget Sound. 
 
-image: "6PPD_V3.png"
-
-image: "StormwaterContents_V1_02092025.png"
 
