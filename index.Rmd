@@ -1,6 +1,6 @@
 ---
 title: "Amirah Casey"
-image: "AmirahCasey.jpg"
+image: "amirah.JPG"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/amirah-casey-b77404a3/"
@@ -14,7 +14,8 @@ output:
  
 ## Bio
 
-Amirah recently graduated from Western Washington University with a BS in Marine and Coastal Science with a minor in Spanish. While at WWU, she took part in research on the effects of PCBs and PBDEs on zebrafish and surf smelt. During her four years as an undergraduate, she was a marine science education intern at foundry10, the first undergraduate to teach a lab section of organismal biology, and a peer mentor for the Marine and Coastal Science. As of 2023, Amirah began attending the University of Washington School of Aquatic and Fishery Science. She is a member of the Applied Ecology Lab and is advised by Dr. Mark Scheuerell. In addition to her studies in SAFS, Amirah is a member of the Future Rivers program and is on the board of Students Explore Aquatic Science (SEAS). Pertaining to graduate studies, she is interested in mitigating the effects of contaminant and thermal stress on salmon in the Pacific Northwest through her collaboration with the NOAA Ecotoxicology program. 
+I graduated as an Outstanding Graduate from Western Washington University with a BS in Marine and Coastal Science and a minor in Spanish. While at WWU, I took part in research on the effects of PCBs and PBDEs on zebrafish and surf smelt. During my four years as an undergraduate, I was a marine science education intern at foundry10, the first undergraduate to teach a lab section of organismal biology, and a peer mentor for the Marine and Coastal Science program. As of 2023, I began attending the University of Washington School of Aquatic and Fishery Science. I am a member of the Applied Ecology Lab and advised by Dr. Mark Scheuerell. In addition to my studies in SAFS, I am on the board of Students Explore Aquatic Science (SEAS), a PNW Climate Ambassador, NSF GRFP Mentor, Cascadia Consulting Temp, a past member of the Future Rivers program, and held a teaching assistantship in quatitative ecology. Pertaining to graduate studies, I am interested in mitigating the effects of contaminant and thermal stress on salmon in the Pacific Northwest through my collaboration with the NOAA Ecotoxicology program. 
+
 
 ## Education
 
@@ -24,14 +25,28 @@ Amirah recently graduated from Western Washington University with a BS in Marine
 
 **University of Washington** | Seattle, WA
 
-- School of Aquatic and Fishery Science| September 2023 - Future date
+- School of Aquatic and Fishery Science, Data Science Option | September 2023 - Current
 
 ## Research
 
-I am broadly interested in Urban Ecology and Climate Resilience, and through graduate school I hope to gain experience doing research at the intersection of science and policy while improving my quantitative and computational skills. As such, my project focuses on how urbanization and climate change are impacting Puget Sound. Specifically, I hope to understand how higher stream temperatures interact with contaminant 6PPD-quinone to impact Coho salmon physiology. I will do this through empirical studies in the lab, as well as updating a pre-existing model that will account for thermal stress when calculating predicted Coho mortality across Puget Sound. 
+I am broadly interested in Urban Ecology and Climate Resilience, and through graduate school I hope to gain experience doing research at the intersection of science and policy while improving my quantitative and computational skills. As such, my first chapter focuses on how urbanization and climate change are impacting Puget Sound. Specifically, I have investigated how higher stream temperatures interact with tire-wear contaminant 6PPD-quinone to impact Coho salmon physiology. In my future work I hope to explore climate solutions and their social implications.
 
-I have also created an educational StoryMap that explores the impacts of stormwater runoff, specifically 6PPD-q, in the Pacific Northwest. 
+I have also created an educational StoryMap that explores the impacts of stormwater runoff, specifically 6PPD-Q, in the Pacific Northwest. 
 
-[Visit my StoryMap](https://arcg.is/0meSj9)
+[Visit the StoryMap](https://arcg.is/0meSj9)
+
+Amirah M. Casey, & Nathaniel L. Scholz. (2025). Pacific Salmon at a Crossroads: a StoryMap. Zenodo. https://doi.org/10.5281/zenodo.17188229
 
 
+## Featured Articles
+[Biography](https://window.wwu.edu/she-was-beautiful-loyal-and-tough) (honored with Best of District VIII award)
+
+[My Path to UW](https://fish.uw.edu/2023/10/new-safs-ms-student-named-outstanding-graduate-of-western-washingtons-marine-and-coastal-sciences-program/)
+
+[The Story Behind the StoryMap](https://fish.uw.edu/2025/04/bringing-to-life-the-story-of-pacific-salmon-and-their-recovery-challenges/)
+
+[Climate Communication](https://fish.uw.edu/2025/07/climate-change-and-communication-go-hand-in-hand-for-pnw-climate-ambassadors/)
+
+[Mentoring High Schoolers: Developing a Lesson Plan](https://fish.uw.edu/2025/06/high-schoolers-design-lesson-on-pacific-salmon-and-chemicals/)
+
+[Internship in Marine Science Education](https://medium.com/the-foundry10-voice/meet-the-intern-who-flips-in-the-air-and-dives-under-the-sea-4315745aa48d)
